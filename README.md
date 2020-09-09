@@ -1,5 +1,5 @@
 # paper-replication
-> **This repo is under construction.**
+> **This repo is under construction. Please look at the HTML file paper-recplication-r.html for the research insights.** 
 
  Replicating results and findings from the paper "Risks and Returns of Cryptocurrency by Liu & Tsyvinski (2018).
 
